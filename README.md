@@ -8,3 +8,9 @@ Simple examples showing the usage of matlab image processing toolbox
 ##### Part 3 : Program to show enhancing the image by histogram equalization.
 
 ##### Part 4 : Program to show noise removal by median filtering
+
+##### Part 5 : Program to show various techniques to find the image edges.
+
+##### Part 6 : Program to show various image rescaling techniques.
+
+##### Part 7 : Program to show image rotation techniques.
